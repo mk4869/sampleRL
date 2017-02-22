@@ -111,6 +111,10 @@ BOOL InitInstance(HINSTANCE hInstance, int nCmdShow)
    return TRUE;
 }
 
+main() {
+
+}
+
 //
 //  ä÷êî: WndProc(HWND, UINT, WPARAM, LPARAM)
 //
